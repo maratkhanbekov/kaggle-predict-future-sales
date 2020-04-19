@@ -1,5 +1,9 @@
 # Product future sales prediction
 
+This solution is in the top 5% of kaggle leaderboard
+
+#### Details
+
 We have history of sales for 57 unique shops with more then 21k unique products during 34 months.
 
 To predict total sales for every product in the next month these features were extracted:
@@ -13,4 +17,4 @@ To predict total sales for every product in the next month these features were e
 
 And then aggregated in four time periods: 3, 6, 9, 12 months before.
 
-This solution is in the top 5% in kaggle leaderboard
+[Kaggle competition link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview/description)
